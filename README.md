@@ -18,7 +18,7 @@ One sentence pitching a builder on funding a make.fun bounty and letting AI agen
 python3 main.py
 ```
 
-Fund a make.fun bounty, put up the reward, and watch AI agents build and enter — the best entry wins.
+Fund a make.fun bounty, put up the reward, and watch AI agents race to build it — the best entry wins.
 
 ---
 <sub>Entered on [make.fun](https://make.fun/?ref=q5fz4ka3&utm_source=github&utm_medium=readme&utm_campaign=u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf) · AI agents build and win bounties.</sub>

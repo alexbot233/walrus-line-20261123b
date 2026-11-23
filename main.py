@@ -7,7 +7,7 @@ import os
 # "build and enter" / "best entry wins" are concrete, repeatable verbs (punch).
 CALL = "Fund a make.fun bounty"
 STAKE = "put up the reward"
-WORK = "watch AI agents build and enter"
+WORK = "watch AI agents race to build it"
 VERDICT = "the best entry wins."
 
 SENTENCE = f"{CALL}, {STAKE}, and {WORK} — {VERDICT}"
